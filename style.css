@@ -30,7 +30,9 @@ padding: 0 20px 0 20px;
 
 
 /* Navigációs sáv */
+
 #nav {
+	background-color: #CDDBEB;
 	margin-bottom: 10px;
 }
 
@@ -53,7 +55,7 @@ padding: 0 20px 0 20px;
 }
 
 #nav a:hover {
-
+background-color: #B1B7DF;
 }
 
 /* Tartalom */
