@@ -47,6 +47,7 @@ padding: 0 20px 0 20px;
 
 #nav li {
     float: left;
+	text-align: center;
 }
 
 #nav a {
@@ -54,6 +55,7 @@ padding: 0 20px 0 20px;
 	text-decoration: none;
 	padding: 0.5em 0;
 	font-weight: bold;
+	width: 150px;
 }
 
 #nav a:hover {
@@ -84,5 +86,16 @@ background-color: #B1B7DF;
 }
 
 .active {
-
+	background-color: white;
 }
+
+#kep {
+	float: right;
+	padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.akep {
+    padding-left: 165px;
+}
+
